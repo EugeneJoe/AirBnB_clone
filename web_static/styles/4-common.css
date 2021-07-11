@@ -1,12 +1,10 @@
-/* Styles common to the whole html page - global styles i.e. body style */
-
 body {
     margin: 0;
     padding: 0;
     color: #484848;
     font-size: 14px;
-    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
     position: relative;
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .container {
