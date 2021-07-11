@@ -1,0 +1,14 @@
+/* Styles for the header element */
+
+header {
+    background-color: #000000;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+
+    <-- insert logo as background image !-->
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position-x: 20px;
+    background-position-y: centre;
+}
