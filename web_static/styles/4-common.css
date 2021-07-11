@@ -6,6 +6,7 @@ body {
     color: #484848;
     font-size: 14px;
     font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: relative;
 }
 
 .container {
@@ -13,4 +14,5 @@ body {
     max-width: 1000px;
     margin-top: 30px;
     margin-bottom: 30px;
+    position: relative;
 }
