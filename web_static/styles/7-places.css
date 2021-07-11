@@ -1,13 +1,14 @@
+.places {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .places h1 {
     font-size: 30px;
     color: black;
     text-align: left;
-}
-
-.places div {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    width: 100%;
 }
 
 .places article {

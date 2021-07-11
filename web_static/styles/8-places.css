@@ -24,12 +24,18 @@
 }
 
 .price_by_night {
+    float: right;
+    margin-top: -22%;
     color: #FF5A5F;
     border: 4px solid #FF5a5F;
     border-radius: 50%;
     min-width: 60px;
     height: 60px;
     font-size: 30px;
+}
+
+.price_by_night span {
+    margin: 14px 0 14px 6px;
 }
 
 .information {
@@ -42,7 +48,15 @@
 .number_rooms,
 .number_bathrooms {
     width: 100px;
+    margin: 0 15px 0;
     text-align: center;
+}
+
+.max_guest span,
+.number_rooms span,
+.number_bathrooms span {
+    padding: 60px 0 0;
+    margin: 0 10px 0;
 }
 
 .icon_info {
