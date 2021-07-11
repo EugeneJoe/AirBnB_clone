@@ -1,7 +1,8 @@
 /* Styles for the footer element */
 
 footer {
-    background-color: #000000;
+    margub-top: auto;
+    background-color: white;
     height: 60px;
     width: 100%;
     border-top: 1px solid #CCCCCC;
