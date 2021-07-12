@@ -69,12 +69,24 @@
 
 .filters .locations:hover ul {
     list-style: none;
-    margin: 0px opx 20px 0px;
+    margin-bottom: 20px;
     padding: 0;
+}
+
+.locations .popover:hover ul {
+    padding-left: 10px;
 }
 
 .filters .amenities:hover ul {
     list-style: none;
+    margin-bottom: 20px;
+    padding: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.filters .amenities .popover:hover li {
+    padding-bottom: 5px;
 }
 
 .filters .locations:hover .popover li {
