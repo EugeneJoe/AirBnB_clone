@@ -30,7 +30,6 @@
 }
 
 .filters .locations, .filters .amenities {
-    flex-direction: column;
     height: 100%;
     width: 25%;
     text-indent: 40px;
@@ -85,7 +84,7 @@
     padding-top: 20px;
 }
 
-.filters .amenities .popover:hover li {
+.filters .amenities:hover .popover li {
     padding-bottom: 5px;
 }
 
