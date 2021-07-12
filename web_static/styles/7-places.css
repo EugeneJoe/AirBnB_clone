@@ -1,5 +1,6 @@
-.places {
+.places div{
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
 }
@@ -17,7 +18,6 @@
     margin: 20px;
     border: 1px  solid #FF5A5F;
     border-radius: 4px;
-    flex-direction: row;
 }
 
 .places article h2 {
