@@ -3,7 +3,7 @@ body {
     padding: 0;
     color: #484848;
     font-size: 14px;
-    position: relative;
+    position: absolute;
     font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
