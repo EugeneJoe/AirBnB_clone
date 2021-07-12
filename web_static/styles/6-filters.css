@@ -29,14 +29,14 @@
     text-align: center;
 }
 
-.filters locations, .filters amenities {
+.filters .locations, .filters .amenities {
     flex-direction: column;
     height: 100%;
     width: 25%;
     text-indent: 40px;
 }
 
-.filters locations {
+.filters .locations {
     border-right: 1px solid #DDDDDD;
     left: 5%;
 }
