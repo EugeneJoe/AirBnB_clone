@@ -51,7 +51,8 @@
     font-size: 14px;
 }
 
-.filters .popover {
+.filters .locations .popover,
+.filters .amenities .popover {
     display: none;
     width: inherit;
     background-color: #FAFAFA;
@@ -61,10 +62,9 @@
     position: absolute;
     margin-top: -0.4%;
     margin-left: -0.1%;
-    flex-direction: column
 }
 
-.filters .popover h2 {
+.locations .popover h2 {
     font-size: 16px;
     margin-bottom: -5%;
 }
