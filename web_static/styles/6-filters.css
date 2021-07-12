@@ -69,13 +69,13 @@
     margin-bottom: -5%;
 }
 
-.popover ul {
+.filters .locations:hover .popover ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-.popover li {
+.filters .locations:hover .popover li {
     text-indent: 40px;
 }
 
