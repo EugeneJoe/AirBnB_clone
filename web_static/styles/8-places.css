@@ -61,19 +61,19 @@
     margin: 0 10px 0;
 }
 
-.icon_info {
+.icon-info {
     background-image: url("../images/icon_info.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 
-.icon_info_1 {
+.icon-info_1 {
     background-image: url("../images/icon_info_1.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 
-.icon_info_2 {
+.icon-info_2 {
     background-image: url("../images/icon_info_2.png");
     background-repeat: no-repeat;
     background-position: centre;
